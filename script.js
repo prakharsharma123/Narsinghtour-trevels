@@ -67,7 +67,7 @@
       { name: "Hyundai Aura 2025", type: "Popular", badge: "Popular", bc: "", img: "images/Gemini_Generated_Image_67avns67avns67av.png", seats: 4, fuel: "CNG", price: "₹11", specs: ["Sedan", "CNG", "4 Seater"] },
       { name: "Hyundai Aura 2025", type: "Family", badge: "Top Pick", bc: "gd", img: "images/Gemini_Generated_Image_ujlckrujlckrujlc.png", seats: 5, fuel: "CNG", price: "₹18", specs: ["MUV", "CNG", "5 Seater"] },
       { name: "TATA ZEST", type: "Popular", badge: "Popular", bc: "", img: "images/Gemini_Generated_Image_yzv4j9yzv4j9yzv4.png", seats: 4, fuel: "CNG", price: "₹11", specs: ["Sedan", "CNG", "4 Seater"] },
-      { name: "Maruti Suzuki Balero", type: "Popular", badge: "Popular", bc: "gd", img: "images/Gemini_Generated_Image_1v4hka1v4hka1v4h.png", seats: 6, fuel: "CNG", price: "₹18", specs: ["Luxury", "CNG", "6 Seater"] },
+      { name: "Mahendra Balero", type: "Popular", badge: "Popular", bc: "gd", img: "images/Gemini_Generated_Image_1v4hka1v4hka1v4h.png", seats: 6, fuel: "CNG", price: "₹18", specs: ["Luxury", "CNG", "6 Seater"] },
       { name: "Maruti Suzuki Ertiga", type: "Premium", badge: "Premium", bc: "gd", img: "images/Gemini_Generated_Image_w19t1mw19t1mw19t.png", seats: 7, fuel: "CNG", price: "₹18", specs: ["MUV", "CNG", "7 Seater"] },
       { name: "Maruti Suzuki Baleno", type: "Family", badge: "Family", bc: "", img: "images/Gemini_Generated_Image_wdoai9wdoai9wdoa.png", seats: 4, fuel: "CNG", price: "₹11", specs: ["Luxury", "CNG", "4 Seater"] },
       { name: "Hyundai Creta", type: "Premium", badge: "Premium", bc: "gd", img: "images/Gemini_Generated_Image_81vsv281vsv281vs.png", seats: 5, fuel: "CNG", price: "₹18", specs: ["SUV", "CNG", "5 Seater"] },
